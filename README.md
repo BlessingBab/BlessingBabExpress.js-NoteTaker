@@ -4,6 +4,8 @@
 
 ## Description
 
+This application is called Note Taker and it allows small business owner to write and save notes. The note application will be use by user to organize thoughts and keep track of tasks to complete.
+
 ## Usage
 
 ## Installation
